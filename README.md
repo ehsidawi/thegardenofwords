@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h2>A simple table</h2>
+<h5>A simple table</h5>
 
- style="width:100%">
+ <table style="width:100%">
   <tr>
     <th>Title</th>
   </tr>
